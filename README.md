@@ -6,6 +6,9 @@ This project aims to create a Tamagotchi emulator using the Keil μVision enviro
 
 The Tamagotchi also include joystick navigation, touchscreen interaction, sound effects, and volume control.
 
+![Alt Text](tamagotchi.gif)
+
+
 ## Features
 
 ### Part 1
